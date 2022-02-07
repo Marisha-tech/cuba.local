@@ -3,6 +3,8 @@
 
 Проект необходим для освоения и закрепления материала по верстке, работа с макетом figma, gulp
 
+Ссылка на готовый проект: https://marisha-tech.github.io/cuba.local/
+
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS3)
